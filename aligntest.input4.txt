@@ -1,0 +1,4 @@
+>First sequence has length 4
+TGTC
+>second sequence has length 3
+TGC
