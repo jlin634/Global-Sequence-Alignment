@@ -1,7 +1,6 @@
 # CS-167 Global Sequence Alignment
 # author: Jeffrey Lin
 # Date: 2/7/2023
-# HW 1
 #
 # Purpose: Determines the optimal global sequence alignment of two sequences 
 #          within a FASTA file, according to the scoring scheme provided by the 
