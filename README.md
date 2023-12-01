@@ -1,7 +1,7 @@
 # Global-Sequence-Alignment
 Purpose: Program determines the optimal global sequence alignment between two sequences. 
 
-**Directions on Compilation: **
+## Directions on Compilation:
 Compilation should follow the following format
 python3 align.py Match Mismatch Gap < input > output
 
