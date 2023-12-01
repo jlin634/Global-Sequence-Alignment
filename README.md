@@ -2,7 +2,7 @@
 Purpose: Program determines the optimal global sequence alignment between two sequences. 
 
 ## Directions on Compilation:
-Compilation should follow the following format: 
+Compilation should follow the following format:  
 python3 align.py Match Mismatch Gap < input > output
 
 In this case, we are piping a FASTA-formatted file into stdin and sending
