@@ -1,5 +1,5 @@
-# CS-167 Global Sequence Alignment
-# author: Jeffrey Lin
+# Global Sequence Alignment
+# Author: Jeffrey Lin
 # Date: 2/7/2023
 #
 # Purpose: Determines the optimal global sequence alignment of two sequences 
